@@ -1,0 +1,361 @@
+/* BACKGROUND  */
+
+.Rectangle {
+    width: 1366px;
+    height: 768px;
+    border: solid 15px #ffffff;
+    background-color: #f4f4f4;
+
+  }
+
+  .Oval-haut {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin-left: 47% !important;
+    margin-top: -3%;
+  }
+
+  figure {
+
+      margin-left: 3rem;
+      margin-top: 3rem;
+  }
+  
+
+  .LOGO {
+    width: 755px;
+    height: 397px;
+    object-fit: contain;
+  }
+
+  .rectangle {
+    width: 584px !important;
+    height: 130px;
+    box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.24);
+    background-color: #ffffff;
+    margin-left: 30% !important;
+  }
+
+  .close {
+    width: 26px;
+    height: 26px;
+    object-fit: contain;
+    opacity: 0.2;
+    font-family: MaterialIcons;
+    font-size: 26px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #363636;
+  }
+
+  .-mois-offerts {
+    width: 178px;
+    height: 32px;
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #87cd5d;
+  }
+
+  .-mois-offerts .text-style-1 {
+    font-size: 15px;
+  }
+
+  .Jusquau-30-Juin-sur {
+    width: 213px;
+    height: 46px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: normal;
+    color: #2d2d2d;
+  }
+
+  .Dmarrer-mon-devis {
+    width: 175px;
+    height: 20px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ff7f33;
+  }
+
+  /* .Fill-1 {
+    width: 25px;
+    height: 19px;
+    object-fit: contain;
+    transform: rotate(-360deg);
+    background-color: #ff7f33;
+  } */
+
+  /* SECTION MILIEU */
+
+  .Vous-avez-choisi-de {
+    width: 653px;
+    height: 24px;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: bold;
+    font-stretch: condensed;
+    font-style: normal;
+    text-transform: uppercase;
+    line-height: 1.09;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ff7f33;
+  }
+
+  .Il-est-donc-indispen {
+    width: 880px;
+    height: 92px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: normal;
+    text-align: center;
+    color: #363636;
+  }
+
+  .Rectangle-Copy-3 {
+    width: 253px;
+    height: 55px;
+    border-radius: 6px;
+    background-color: #ff7f33 !important;
+  }
+
+  .Dmarrer-votre-devis {
+    width: 181px;
+    height: 20px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  .Line {
+    width: 2px;
+    height: 140px;
+    border: solid 2px #ffffff;
+  }
+
+  .-mois-offerts-la-1 {
+    width: 842px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6d6d6d;
+  }
+
+  .Oval-bas {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin-top: 7em;
+    margin-left: 47% !important;
+  }
+
+.haut {
+  transform: rotate(180deg)
+}
+
+
+/* BLOCK 2 */
+
+.RectangleOrange {
+  width: 1366px;
+  height: 768px;
+  border: solid 15px #ff7f33;
+}
+
+.Mask {
+  width: 1336px;
+  height: 739px;
+  background-color: #f4f4f4;
+  position: relative;
+  z-index: 1;
+}
+
+.imgBack {
+  width: 1336px;
+  height: 739px;
+  object-fit: contain;
+  position: absolute;
+  z-index: -999;
+}
+
+.Rectangle-Copy-4 {
+  width: 226px;
+  height: 55px;
+  border-radius: 27.5px !important;
+  background-color: #ff7f33 !important;
+  margin-left: 90.333%;
+}
+
+.card {
+  width: 340px;
+  height: 300px;
+  box-shadow: 0 2px 22px 0 rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+}
+
+
+.Vous-tes-accompagn{
+
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: center;
+  color: #363636;
+}
+
+.Service-SOS-domic {
+  width: 842px;
+  height: 68px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.42;
+  letter-spacing: normal;
+  text-align: center;
+  color: #6d6d6d;
+}
+
+div.carousel  {
+  visibility: hidden;
+}
+
+.Mentions-lgales {
+
+visibility: hidden;
+}
+
+
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media screen and (min-width: 200px) and (max-width: 767.98px){
+
+  div.Rectangle, div.RectangleOrange{
+    width: 100%;
+    height: 100vh;
+  }
+
+
+  .imgBack {
+
+    width: 100%;
+    height: 739px;
+    object-fit: contain;
+    position: absolute;
+    z-index: -999;
+    object-fit: cover;
+  }
+
+  img.LOGO {
+    width: 11em;
+  }
+
+  .row.rectangle {
+    display: none;
+  }
+
+.Vous-avez-choisi-de {
+  
+  padding-bottom: 3em;
+}
+
+.Il-est-donc-indispen {
+  margin-bottom: 7em;
+  padding-left: 0 !important;
+}
+
+.-mois-offerts-la-1 {
+
+  display: none;
+}
+
+button.Rectangle-Copy-4 {
+
+  /* margin-left: 80%; */
+  margin-top: -13em;
+  margin-left: 40% !important;
+}
+
+div.row.cards, .bandeau, p.Service-SOS-domic{
+  display: none !important;
+}
+
+.Oval-haut, .Oval-bas {
+
+  margin-left: 40% !important;
+}
+
+p.Mentions-lgales {
+  width: 134px;
+  height: 17px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #363636;
+  visibility: visible;
+  margin-top: 7em;
+  margin-left: 10em;
+
+}
+
+div.carousel  {
+  visibility: visible;
+}
+}
+
+
+
+
+
+
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { ... }
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) { ... }
